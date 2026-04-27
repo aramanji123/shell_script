@@ -1,0 +1,17 @@
+stdin ,stdout,stderror,redirection 
+-----------------------------------
+
+
+2>  ----  This can be used to redirect error output to file/device
+
+>   ---- This can be used to redirect the output but it will overwrite to file
+
+>>  ---- This can be used to append the output to file
+
+
+
+Variables:
+----------
+
+
+
